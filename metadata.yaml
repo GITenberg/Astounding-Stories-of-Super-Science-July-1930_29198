@@ -1,0 +1,44 @@
+_repo: Astounding-Stories-of-Super-Science-July-1930_29198
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Bates, Harry
+    aliases:
+    - Winter, H. G.
+    - Bates, Hiram Gilmore
+    birthdate: 1900
+    deathdate: 1981
+    gutenberg_agent_id: '33755'
+    url: http://www.gutenberg.org/2009/agents/33755
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Bates_(author)
+description: ''
+gutenberg_bookshelf:
+- Astounding Stories
+- Science Fiction
+gutenberg_issued: '2009-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29198'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction, American -- Periodicals'
+- !lcc 'PN'
+- !lcsh 'Science fiction -- Periodicals'
+tableOfContents: "Beyond the Heaviside Layer / S. P. Meek\r\nEarth, the Marauder (Part\
+  \ 1 of 3) / Arthur J. Burks\r\nFrom an Amber Block / Tom Curry\r\nThe Terror of\
+  \ Air-Level Six / Harl Vincent\r\nThe Forgotten Planet / Sewell Peaslee Wright\r\
+  \nThe Power and the Glory / Charles Willard Diffin\r\nMurder Madness (Part 3 of\
+  \ 4) / Murray Leinster"
+title: Astounding Stories of Super-Science July 1930
+url: http://www.gutenberg.org/ebooks/29198
